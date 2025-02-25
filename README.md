@@ -3,6 +3,8 @@ An all-in-one game research tool! It loads all the animations that are currently
 
 Idea taken from Edge's Audio Logger. 
 
+> **OPEN SOURCE CODE**
+
 ## Link
 ```
 https://raw.githubusercontent.com/LocalScriptMaker/Animation-Logger/refs/heads/main/Script
