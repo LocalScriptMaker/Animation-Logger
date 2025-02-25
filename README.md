@@ -1,10 +1,12 @@
 # Animation Logger
 An all-in-one game research tool! It loads all the animations that are currently playing!
 
-Idea taken from Edge's Audio Logger
+Idea taken from Edge's Audio Logger. 
 
 ## Link
-
+```
+https://raw.githubusercontent.com/LocalScriptMaker/Animation-Logger/refs/heads/main/Script
+```
 ## Basic functions
 ### Settings
 + _Save Selected_ - saves selected animations
@@ -16,3 +18,7 @@ Idea taken from Edge's Audio Logger
 + _Players_ - finds animations playing in **other** players
 + _Selected_ - finds animations playing in selected rig
 + _All_ - finds animations playing in all rigs
+
+**__When you click on a loaded animation, a panel will open with detailed information about it, for example: animation ID (can be copied), name, and basic playback functions__**
+
+_P.S I would really appreciate it if the owner of Infinite Yield would add this to the list of admin commands!_
